@@ -1,0 +1,9 @@
+Team leaders will make a repository and will send the invite
+Team leader will make a folder and in it he is going to execute 
+the initial set of commands on the repository page.
+Team members will clone the repository
+Team members will add new files and folders and commit it in local repository.
+Team members will make further changes by adding/modifying/deleting files in 
+the working folder and will commit again.
+Team member will push it.
+Everyone will pull to be in sync with team
