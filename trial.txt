@@ -1,0 +1,1 @@
+use git add command to shift the files to the staging area
